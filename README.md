@@ -2,7 +2,7 @@
 
 A redesign of the [OASA](https://www.oasa.gr) website.
 
-It is written in HTML, CSS, PHP, MySQL and JavaScript.
+It is written in HTML, CSS, PHP, MySQL and JavaScript. The Bootstrap 4 styling toolkit is used.
 
 This project is a part of the 'Machine Interfaces' University Subject (DIT, NKUA).
 
